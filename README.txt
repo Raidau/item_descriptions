@@ -1,5 +1,7 @@
 #Public repository of custom item descriptions for Extended Viewscreen script.
 
+#https://github.com/Raidau/public_scripts/blob/master/nb_item_info.lua
+
 Place this folder in your Dwarf Fortress/raw and Dwarf Fortress/data/save/<saved_world>/raw folders.
 
 
