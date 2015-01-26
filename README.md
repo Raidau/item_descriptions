@@ -1,4 +1,4 @@
-#This is public repository of custom item descriptions for Extended Viewscreen script.
+#Public repository of custom item descriptions for Extended Viewscreen script.
 
 Place this folder in your Dwarf Fortress/raw and Dwarf Fortress/data/save/<saved_world>/raw folders.
 
